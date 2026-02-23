@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": "a46630bc-0969-45f7-aedb-4c66248bcbc4",
+      "pin": "1234",
+      "cvv": "456",
+      "type": "VIRTUAL",
+      "status": "ACTIVE",
+      "accountId": "a14238ef-861d-4b3b-9ca6-12b109f44905",
+      "cardNumber": "4111111111111111",
+      "cardHolder": "MAKSIM MAKSIMOV",
+      "expiryDate": "2027-12-31",
+      "paymentSystem": "VISA"
+    },
+    {
+      "id": "8ea78840-f63f-4cc8-94c0-b0730e6a20ea",
+      "pin": "9876",
+      "cvv": "789",
+      "type": "PHYSICAL",
+      "status": "ACTIVE",
+      "accountId": "a14238ef-861d-4b3b-9ca6-12b109f44905",
+      "cardNumber": "5500000000000004",
+      "cardHolder": "MAKSIM MAKSIMOV",
+      "expiryDate": "2028-06-30",
+      "paymentSystem": "MASTERCARD"
+    }
+  ]
+}

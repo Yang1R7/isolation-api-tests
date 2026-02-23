@@ -27,7 +27,7 @@ async def get_account(
         scenario: Scenario = Depends(get_scenario_http),
 ):
     return await loader.load_http(
-        file=f"get_accounts/{scenario}.json",
+        file=f"get_account/{scenario}.json",
         model=GetAccountResponseTestSchema
     )
 
